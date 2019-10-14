@@ -1,4 +1,4 @@
-# Network Security 101
+# Network Security 101 CSN08703/09112
 Some Network Security Learning Resources
 
 Computer Security can be described as protecting a single host system, its resources, and how to combat threats to that single machine. Network Security encompasses the protection of entire networks, all the host systems, data, users, devices, and network communications within them. 
