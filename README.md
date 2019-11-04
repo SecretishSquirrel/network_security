@@ -17,9 +17,9 @@ If you have an Immersive Labs account you can get more Wireshark practice by com
 These labs can be found **Labs > Tools > Packet Analysis Tools**
 
 The labs which may be useful are:
-    - Introduction to Wireshark
-    - Wireshark Setup
-    - Wireshark TLS
-    - Stream Extraction
+- Introduction to Wireshark
+- Wireshark Setup
+- Wireshark TLS
+- Stream Extraction
 
 Interested but don't have an account? You can register for Immersive Labs through the link provided using your university email address.
