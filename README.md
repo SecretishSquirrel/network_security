@@ -10,6 +10,7 @@ Overview of Network Security Labs, Firewalling and PFSense Firewall: [<a href="h
 ## Practical Labs
 ### Practical Lab: Wireshark for Traffic Analysis, PfSense Firewall and Kali for Perimeter Firewalling/testing
 Practical lab including the creation of a perimeter firewall infrastucture using a virtual PfSense firewall, creation of DMZ and internal networks with virtual servers, introduction packet capture and analysis with Wireshark. [<a href="https://github.com/SecretishSquirrel/network_security/blob/master/Lab04_PfSense_Wireshark.pdf">Link to Lab Instructions</a>]
+Should be VERY useful for Coursework prep!
 
 ### Immersive Labs: Wireshark Labs 
 If you have an Immersive Labs account you can get more Wireshark practice by completing Immersive Lab's own Wireshark labs. [<a href="https://dca.immersivelabs.online">Link</a>]
