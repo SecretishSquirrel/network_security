@@ -6,3 +6,17 @@ Computer Security can be described as protecting a single host system, its resou
 
 Overview of Network Security Labs, Firewalling and PFSense Firewall: [<a href="https://youtu.be/pbhJSvEXZrw">Link</a>]
 
+
+## Practical Lab: Wireshark for Traffic Analysis, PfSense Firewall and Kali for Perimeter Firewalling/testing
+[<a href="https://github.com/SecretishSquirrel/network_security/blob/master/Lab04_PfSense_Wireshark.pdf">Practical lab</a>] including the creation of a perimeter firewall infrastucture using a virtual PfSense firewall, creation of DMZ and internal networks with virtual servers, introduction packet capture and analysis with Wireshark.
+
+## [<a href="https://dca.immersivelabs.online">Immersive Labs: Wireshark Labs</a>]
+If you have an Immersive Labs account you can get more Wireshark practice by completing Immersive Lab's own Wireshark labs. These labs can be found Labs > Tools > Packet Analysis Tools
+
+The labs which may be useful are:
+    Introduction to Wireshark
+    Wireshark Setup
+    Wireshark TLS
+    Stream Extraction
+
+Interested but don't have an account? You can register for Immersive Labs through the link provided using your university email address.
