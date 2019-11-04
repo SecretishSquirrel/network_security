@@ -12,9 +12,10 @@ Overview of Network Security Labs, Firewalling and PFSense Firewall: [<a href="h
 ### Practical Lab: PfSense Firewalling and Snort IDS File 
 Exploration of packet filtering and stateful firewalling with the PfSense firewall. Further Snort IDS Sensor exploration, including rule development methodology. Covers some Recon, and specific Attacks and the defenses to mitigate these.[<a href="https://github.com/SecretishSquirrel/network_security/blob/master/Lab03_PfSense_intro_Nmap_FwServices_.pdf">Link to Lab Instructions</a>]
 
+### Immersive Labs: Snort Labs 
 If you have an Immersive Labs account you can get more Snort practice by completing Immersive Lab's own Snort labs. These labs can be found at: **Labs > Tools > Snort** [<a href="https://dca.immersivelabs.online">Link</a>]
 
-The labs which may be most useful:
+### Immersive Labs: Wireshark Labs The labs which may be most useful:
 - Snort Rules Episode 1
 - Snort Rules Episode 2 - DNS
 - Snort Rules Episode 3 - HTTP 
